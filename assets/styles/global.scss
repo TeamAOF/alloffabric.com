@@ -1,0 +1,52 @@
+@import "~assets/styles/normalize.scss";
+
+@font-face {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 400;
+  src: url("~assets/fonts/OpenSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 700;
+  src: url("~assets/fonts/OpenSans-Bold.ttf") format("truetype");
+}
+
+
+html {
+  background-color: #232323;
+  color: #fff;
+  font-family: Open Sans, -apple-system, BlinkMacSystemFont, Inter, Segoe UI, Oxygen, Ubuntu, Roboto, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+.link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.inline-icon {
+  display: inline;
+  vertical-align: middle;
+}
+
+.button {
+  align-items: center;
+  display: flex;
+  padding: 0.5rem 0.75rem;
+  text-decoration: none;
+}
+
+.button__icon {
+  height: 1rem;
+}
+
+.button__text {
+  color: inherit;
+  margin-left: 1rem;
+  text-decoration: none;
+}
