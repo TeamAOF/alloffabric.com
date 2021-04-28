@@ -53,7 +53,7 @@
           <div class="main__buzzwords">
             <h2 class="main__buzzwords-heading">All of Fabric 3</h2>
             <p class="main__buzzwords-subheading">
-              Fabric modpack you will love to play
+              Fabric modpack you will love to play!
               <IconHeart class="inline-icon main__buzzwords-heart" />
             </p>
           </div>
