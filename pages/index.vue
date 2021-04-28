@@ -58,11 +58,13 @@
             </p>
           </div>
           <div class="main__yourkit">
-            <img
-              class="main__yourkit-pic"
-              src="~assets/images/yklogo.png"
-              alt="YourKit Logo"
-            />
+            <a href="https://yourkit.com/">
+              <img
+                class="main__yourkit-pic"
+                src="~assets/images/yklogo.png"
+                alt="YourKit Logo"
+              />
+            </a>
             <p class="main__yourkit-text">
               YourKit supports open source projects with innovative and
               intelligent tools for monitoring and profiling Java and .NET
