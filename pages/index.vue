@@ -74,6 +74,9 @@
       </div>
     </main>
   </div>
+  <a href="https://www.yourkit.com">
+   <img src="yklogo" alt="Powered by yourkit">
+</a>
 </template>
 
 <script>
