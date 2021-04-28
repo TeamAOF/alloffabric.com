@@ -72,11 +72,12 @@
           </div>
         </div> -->
       </div>
-    </main>
-  </div>
-  <a href="https://www.yourkit.com">
+        <a href="https://www.yourkit.com">
    <img src="yklogo" alt="Powered by yourkit">
 </a>
+    </main>
+  </div>
+
 </template>
 
 <script>
