@@ -57,6 +57,20 @@
               <IconHeart class="inline-icon main__buzzwords-heart" />
             </p>
           </div>
+          <div class="main__yourkit">
+            <a href="https://yourkit.com/">
+              <img
+                class="main__yourkit-pic"
+                src="~assets/images/yklogo.png"
+                alt="YourKit Logo"
+              />
+            </a>
+            <p class="main__yourkit-text">
+              YourKit supports open source projects with innovative and
+              intelligent tools for monitoring and profiling Java and .NET
+              applications.
+            </p>
+          </div>
         </div>
         <!-- <div class="card main__download">
           <div class="card__wrapper">
@@ -74,7 +88,6 @@
       </div>
     </main>
   </div>
-
 </template>
 
 <script>
@@ -180,6 +193,17 @@ export default {
   margin: 0;
   padding: 0;
   width: 2rem;
+}
+
+.main__yourkit {
+  background-color: #232323;
+  margin-top: 10rem;
+  padding: 2rem 3rem;
+}
+
+.main__yourkit-text {
+  letter-spacing: 0.02em;
+  line-height: 1.5em;
 }
 
 .main__download {
